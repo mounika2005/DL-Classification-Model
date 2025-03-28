@@ -38,9 +38,9 @@ Write your own steps
 
 ## PROGRAM
 
-### Name:
+### Name:levaku lakshmi mounika
 
-### Register Number:
+### Register Number: 212223100026
 
 ```python
 class IrisClassifier(nn.Module):
